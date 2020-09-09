@@ -103,7 +103,23 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    # - repo1-to-be-excluded
+    - patchapallet
+    - redis-sentinel
+    - TaskViewer
+    - falcon-blog-tutorial
+    - grpc-blog-tutorial
+    - hug-blog-tutorial
+    - kong-blog-tutorial
+    - kong-oauth
+    - kong-docker-compose-cassandra
+    - kong-kubernetes
+    - tracker
+    - AsyncHelper
+    - ecommerce-test
+    - go-proxy-pass
+    - service-blox-oauth
+    - geyser-sensor
+    - newGitTest
     # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
