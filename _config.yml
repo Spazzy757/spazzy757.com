@@ -120,7 +120,6 @@ projects:
     - service-blox-oauth
     - geyser-sensor
     - newGitTest
-    # - repo2-to-be-excluded
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics

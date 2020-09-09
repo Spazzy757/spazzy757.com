@@ -26,15 +26,6 @@
 - name: Jenkins
   weight: 3
 
-- name: npm
-  weight: 2
-
-- name: gulp
-  weight: 4
-
-- name: Postman
-  weight: 4
-
 - name: Terraform
   weight: 5
 
@@ -44,3 +35,8 @@
 - name: Yaml
   weight: 4
 
+- name: Prometheus
+  weight: 3
+
+- name: Grafana
+  weight: 4
