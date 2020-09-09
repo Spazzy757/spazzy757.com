@@ -1,0 +1,59 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Container Solutions
+  date: March 2019 - Present
+  subtitle:  Cloud Native Consultant
+  tags:
+    - tag: Terraform
+    - tag: Kubernetes
+    - tag: Google Cloud
+    - tag: GitOps
+    - tag: Azure
+    - tag: AWS
+    - tag: Kong
+  timeline-side: right
+
+- title: Tangent Solutions
+  date: Oct 2016 - Mar 2019
+  subtitle: Senior Software Developer
+  tags:
+    - tag: Kubernetes
+    - tag: Azure
+    - tag: Python
+    - tag: Django
+    - tag: Kong
+  timeline-side: right
+
+- title: KwikTech
+  date: Jul 2016 - Aug 2016
+  subtitle: Front End Developer
+  timeline-side: left
+
+- title: Cumulus Blue Platforms (Pty) Ltd
+  date: March 2016 - May 2016
+  subtitle: Php Developer
+  tags:
+    - tag: Php
+  timeline-side: right
+
+- title: Freelance
+  date: March 2012 - Dec 2015
+  subtitle: Web Developer
+  timeline-side: left

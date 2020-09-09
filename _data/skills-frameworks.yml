@@ -1,0 +1,44 @@
+# > name: Name of your framework
+# > weight: Describes how good you know the framework - values from 1 up to 5
+#
+# Example of a framework
+# - name: Framework
+#   weight: 5
+
+- name: Kubernetes
+  weight: 5
+
+- name: OpenShift
+  weight: 4
+
+- name: Azure
+  weight: 5
+
+- name: Google Cloud
+  weight: 4
+
+- name: AWS 
+  weight: 3
+
+- name: Apache Beam
+  weight: 3
+
+- name: Postgres
+  weight: 4
+
+- name: MySQL
+  weight: 3
+
+- name: Redis
+  weight: 4
+
+- name: Istio
+  weight: 3
+
+- name: Kong
+  weight: 5
+
+- name: KubeStack
+  weight: 3
+
+
