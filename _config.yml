@@ -21,8 +21,8 @@ email: brendankamp757@gmail.com
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
 github_username: Spazzy757
-codepen_username: 
-dev_username: 
+codepen_username:
+dev_username:
 linkedin_username: brendan-kamp-757e
 twitter_username: Spazzy757
 
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My main passion is for everything Code, from web development to deep learning and all that is in-between. I started my career as a frontend developer, designing small web applications. I got really bored, very fast so I started looking at what I could do to challenge myself and along came Python. I've been working mainly in infrastructure and cloud but still keep my finger on the pulse of software.
+about_me_description: My main passion is for everything Code, from web development to deep learning and all that is in-between. I started my career as a frontend developer, designing small web applications. I got really bored, very fast so I started looking at what I could do to challenge myself and along came Python. I have a consitant drive to master all levels of the stack and have recently been working mostly on the operational stack (CI/CD, Infratsructure Components and Monitoring/Logging)
 
 # SKILLS SECTION
 # show_skills_card:
@@ -103,23 +103,26 @@ projects:
     forks: true
     # projects: A list of the repository names you want to exclude from the listing.
     projects:
-    - patchapallet
-    - redis-sentinel
-    - TaskViewer
-    - falcon-blog-tutorial
-    - grpc-blog-tutorial
-    - hug-blog-tutorial
-    - kong-blog-tutorial
-    - kong-oauth
-    - kong-docker-compose-cassandra
-    - kong-kubernetes
-    - tracker
-    - AsyncHelper
-    - ecommerce-test
-    - go-proxy-pass
-    - service-blox-oauth
-    - geyser-sensor
-    - newGitTest
+      - patchapallet
+      - redis-sentinel
+      - TaskViewer
+      - falcon-blog-tutorial
+      - grpc-blog-tutorial
+      - hug-blog-tutorial
+      - kong-blog-tutorial
+      - kong-oauth
+      - kong-docker-compose-cassandra
+      - kong-kubernetes
+      - tracker
+      - AsyncHelper
+      - ecommerce-test
+      - go-proxy-pass
+      - service-blox-oauth
+      - geyser-sensor
+      - newGitTest
+      - Spazzy757
+      - FacialRecognition
+      - commentApp
 
 # GOOGLE-ANALYTICS
 # Set the id, if you want to track your website with Google Analytics
