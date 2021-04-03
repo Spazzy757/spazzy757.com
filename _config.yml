@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My main passion is for everything Code, from web development to deep learning and all that is in-between. I started my career as a frontend developer, designing small web applications. I got really bored, very fast so I started looking at what I could do to challenge myself and along came Python. I have a consitant drive to master all levels of the stack and have recently been working mostly on the operational stack (CI/CD, Infratsructure Components and Monitoring/Logging)
+about_me_description: My main passion is for everything Code, from web development to deep learning and all that is in-between. I started my career as a frontend developer, designing small web applications. I got really bored, very fast so I started looking at what I could do to challenge myself and along came Python. I have a consistent drive to master all levels of the stack and have recently been working on the operational stack (CI/CD, Infrastructure components and monitoring/logging) while playing around with some open source projects that I maintain or contribute to. The passion for understanding complexities has flowed into organisational and team structures and optimizing a teams culture and delivery.
 
 # SKILLS SECTION
 # show_skills_card:
@@ -81,7 +81,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title: Contact
 # contact_description: This will be displayed under the title.
-contact_description: Currently I am a consultant at <a href="https://container-solutions.com">Container Solutions</a>, so if you wish to obtain any of my services feel free to email me directly or get in touch on our  <a href="https://container-solutions.com">website</a>.
+contact_description: You can contact me by email or alternatively reach out on linkedIn
 
 # GITHUB-METADATA
 # Set this to your forked repository
