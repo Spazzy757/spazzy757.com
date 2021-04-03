@@ -4,12 +4,20 @@
 # > tags: List of technologies you used in your projects
 #
 # Example of a project
-# - name: project X
-#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#   demo: https://example.com/
-#   tags:
-#     - tag: MongoDB
-#     - tag: Express
-#     - tag: AngularJS
-#     - tag: Node
-
+- name: GitOps In a Regulated Industry
+  descr: I worked on a project that had government tax regulation implications, the idea was to design and create a simple system that could be maintained by a small team while adhering to strict compliance regulations. I wrote a <a href=”https://blog.container-solutions.com/how-to-use-gitops-in-a-company#:~:text=GitOps%20is%20the%20automated%20operations,through%20Pull%20requests%20and%20tags.&text=You%20can%20revert%20the%20breaking,to%20fulfil%20the%20current%20state.”>blog post</a> and did a talk at <a href=”https://www.youtube.com/watch?v=_f81Uw6Sbc4&ab_channel=Docker”>DockerCon</a>
+  tags:
+    - tag: Kubernetes
+    - tag: Terraform
+    - tag: Azure
+    - tag: Java
+- name: E-Commerce Consulting
+  descr: I worked for an extremely large clothing and shoe provider that has shops and online store world wide. My position here was to help their operational teams with direction and advice to facilitate 600 internal developers.
+  tags:
+    - tag: Kubernetes
+    - tag: Terraform
+    - tag: Golang
+- name: Mangement Of Development Teams
+  descr: I have consistently lead teams ranging from 5 - 20 people, either at clients achieving a single project goal or internally managing people professional development and growth
+  tags:
+    - tag: Management
