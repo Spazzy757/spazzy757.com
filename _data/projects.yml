@@ -4,6 +4,22 @@
 # > tags: List of technologies you used in your projects
 #
 # Example of a project
+- name: ISO27001 Compliance Automation
+  descr: As part of work to achieve a ISO27001 compliance, I created a GitOps automated system that allowed for auditing change management of applications as well as Infrastructure, this was to cover the various controls laid out by the standard. Alongside this I helped draft the policies that are required to meet the standards which covered various security concerns of the company. I also worked with the auditor to prove our compliance with the standard
+  tags:
+    - tag: ISO27001
+    - tag: Terraform
+    - tag: Google Cloud
+    - tag: JumpCloud
+    - tag: Cloudflare
+- name: Full Revamp of Infrastructure without any downtime
+  descr: When joining the company, I was the first platform engineer. I took the manually provisioned infratsructure and using various Kubernetes operators and terraform, completley automated the system via a mixture of terraform and various Kubernetes operartors. This also required me to write an event listner in Golang in order to fill gaps that some Open Source Tooling had.
+  tags:
+    - tag: Golang
+    - tag: Terraform
+    - tag: Google Cloud
+    - tag: Cloudflare
+    - tag: ArgoCD
 - name: GitOps In a Regulated Industry
   descr: I worked on a project that had government tax regulation implications, the idea was to design and create a simple system that could be maintained by a small team while adhering to strict compliance regulations. I wrote a <a href=”https://blog.container-solutions.com/how-to-use-gitops-in-a-company#:~:text=GitOps%20is%20the%20automated%20operations,through%20Pull%20requests%20and%20tags.&text=You%20can%20revert%20the%20breaking,to%20fulfil%20the%20current%20state.”>blog post</a> and did a talk at <a href=”https://www.youtube.com/watch?v=_f81Uw6Sbc4&ab_channel=Docker”>DockerCon</a>
   tags:

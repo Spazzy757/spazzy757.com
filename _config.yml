@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: My main passion is for everything Code, from web development to deep learning and all that is in-between. I started my career as a frontend developer, designing small web applications. I got really bored, very fast so I started looking at what I could do to challenge myself and along came Python. I have a consistent drive to master all levels of the stack and have recently been working on the operational stack (CI/CD, Infrastructure components and monitoring/logging) while playing around with some open source projects that I maintain or contribute to. The passion for understanding complexities has flowed into organisational and team structures and optimizing a teams culture and delivery.
+about_me_description: A passionate individual who has been  writing code for the last 11 years, I started my journey as a mobile developer in Ionic and quickly decided I wanted to understand the whole stack. Since then I have slowly tried to understand each layer of development including application, infrastructure, CI/CD, Team culture and organisational structure. I enjoy finding simple solutions to complex problems. 
 
 # SKILLS SECTION
 # show_skills_card:

@@ -15,10 +15,10 @@
   weight: 5
 
 - name: Google Cloud
-  weight: 4
+  weight: 5
 
 - name: AWS 
-  weight: 3
+  weight: 4
 
 - name: Apache Beam
   weight: 3
@@ -34,6 +34,9 @@
 
 - name: Istio
   weight: 3
+
+- name: LinkerD
+  weight: 4
 
 - name: Kong
   weight: 5

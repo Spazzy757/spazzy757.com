@@ -16,9 +16,22 @@
 #     - tag: Ruby
 #     - tag: Rails
 #   timeline-side: right
+- title: Pento
+  date: July 2021 - Present
+  subtitle:  Principal Platform Engineer
+  tags:
+    - tag: Terraform
+    - tag: Kubernetes
+    - tag: Google Cloud
+    - tag: GitOps
+    - tag: Golang
+    - tag: Auth0
+    - tag: Cloudflare
+    - tag: Security
+  timeline-side: right
 
 - title: Container Solutions
-  date: March 2019 - Present
+  date: March 2019 - June 2021
   subtitle:  Cloud Native Consultant
   tags:
     - tag: Terraform

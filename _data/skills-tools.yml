@@ -36,7 +36,13 @@
   weight: 4
 
 - name: Prometheus
-  weight: 3
+  weight: 4
 
 - name: Grafana
+  weight: 4
+
+- name: DataDog
+  weight: 4
+
+- name: Auth0
   weight: 4
