@@ -13,7 +13,7 @@
     - tag: JumpCloud
     - tag: Cloudflare
 - name: Full Revamp of Infrastructure without any downtime
-  descr: When joining the company, I was the first platform engineer. I took the manually provisioned infratsructure and using various Kubernetes operators and terraform, completley automated the system via a mixture of terraform and various Kubernetes operartors. This also required me to write an event listner in Golang in order to fill gaps that some Open Source Tooling had.
+  descr: When joining the company, I was the first platform engineer. I took the manually provisioned infratsructure and using various Kubernetes operators and terraform, completley automated the system. This also required me to write an event listener in Golang in order to fill gaps that some Open Source Tooling had.
   tags:
     - tag: Golang
     - tag: Terraform
